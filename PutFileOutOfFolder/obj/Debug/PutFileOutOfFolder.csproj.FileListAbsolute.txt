@@ -1,0 +1,5 @@
+D:\Test\PutFileOutOfFolder\PutFileOutOfFolder\bin\Debug\PutFileOutOfFolder.exe
+D:\Test\PutFileOutOfFolder\PutFileOutOfFolder\bin\Debug\PutFileOutOfFolder.pdb
+D:\Test\PutFileOutOfFolder\PutFileOutOfFolder\obj\Debug\PutFileOutOfFolder.csprojResolveAssemblyReference.cache
+D:\Test\PutFileOutOfFolder\PutFileOutOfFolder\obj\Debug\PutFileOutOfFolder.exe
+D:\Test\PutFileOutOfFolder\PutFileOutOfFolder\obj\Debug\PutFileOutOfFolder.pdb
